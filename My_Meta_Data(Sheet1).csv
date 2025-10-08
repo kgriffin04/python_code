@@ -1,0 +1,42 @@
+day_number,day_type,sleep_hours,gym,caffeine_intake_esspresso_shot,mood_1_to_10
+1,Thurs,7,Pull (Arm - Focused),1,8
+2,Mon,6.5,Push (Chest - Focused),2,4.5
+3,Tues,8,N/A ,0,6
+4,Wed,6,N/A ,1,6.5
+5,Thurs,6,Push (Arms - Focused),2,7.5
+6,Fri,4,Pull (Back - Focused),2,8
+7,Mon,7,N/A ,2,7.5
+8,Tues,5.5,N/A ,1,6
+9,Wed,6.5,N/A ,1,10
+10,Thurs,7.5,N/A ,1,7.5
+11,Fri,7,Push (Chest & Legs),2,8
+12,Mon,7.5,N/A ,1,6.5
+13,Tues,6.5,Pull,1,7
+14,Wed,7,Push (Chest & Legs),1,7.5
+15,Thurs,5,N/A ,2,8.5
+16,Fri,7,N/A ,2,9
+17,Mon,7.5,N/A ,2,7
+18,Tues,6,N/A ,1,7
+19,Wed,7,N/A ,1,7
+20,Thurs,6,N/A ,0,5.5
+21,Fri,7.5,N/A ,1,7.5
+22,Mon,7,N/A ,1,7
+23,Tues,8,N/A ,2,5
+24,Wed,6,N/A ,1,6
+25,Thurs,7,N/A ,1,7
+26,Fri,7.5,Upper Body,1,8
+27,Mon,6.5,N/A ,0,6
+28,Tues,5,N/A ,1,5
+29,Wed,6.5,N/A ,1,6.5
+30,Thurs,6,N/A ,1,10
+31,Fri,7,N/A ,1,7
+32,Mon,7.5,N/A ,1,6.5
+33,Tues,6.5,Legs,0,7.5
+34,Wed,7,N/A ,1,6
+35,Thurs,8,N/A ,1,7
+36,Fri,7.5,Upper Body,0,8
+37,Mon,8,N/A ,1,6
+38,Tues,7,N/A ,1,6.5
+39,Wed,6.5,N/A ,0,4
+40,Thurs,6.5,N/A ,1,7
+41,Fri,7,N/A ,1,8
